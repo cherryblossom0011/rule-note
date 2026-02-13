@@ -26,7 +26,10 @@
 | `hotfix` | 매우 중요한 버그 수정 |
 | `config` | config 파일, dependency, application.yml 등 설정 파일 수정 |
 | `test` | 테스트 관련 작업 |
+| `init`  | 프로젝트 생성 |
 | `docs`  | 주석 작업, README, Swagger, StoryBook |
+
+*해당 커밋 유형 키워드는 백엔드 개발 레포에서 적용
 
 
 <br>
